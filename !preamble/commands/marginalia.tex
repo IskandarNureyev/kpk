@@ -1,0 +1,44 @@
+\usepackage{bbding}
+%% WYMAGANE: graphicx, xparse, xstring, xfp
+%% ZMIENNE:
+\newcommand{\marginaliaraisebox}{0.2}%o ile podnieść manikułę;
+% Coelacanth: 0.2
+\newcommand{\marginaliawysokość}{0.1}%modyfikacja domyślnej wartości 
+
+%% GLIF/BRAK GLIFU
+% \PackageError{marginalia}{Nie wskazano czy font ma glif manikuły}{}
+% \newcommand{\maniculeL}{\raisebox{\marginaliaraisebox cm}{\scalebox{0.25}{\Huge☜}}}\newcommand{\maniculeR}{\raisebox{\marginaliaraisebox cm}{\scalebox{0.25}{\Huge☞}}}%% DLA FONTÓW Z GLIFEM
+\newcommand{\maniculeL}{\HandLeft}\newcommand{\maniculeR}{\HandRight}%% DLA FONTÓW BEZ GLIFU
+
+\NewDocumentCommand{\Mar}{s d<> O{0} m O{} D<>{\marginaliawysokość}}{% #1: Boolean; #2: <P(rawy)/L(ewy)>; #3: [X° (obrót palca)]; #4: {<tytuł>/<treść>}; #5: [<treść>]; #6: <<zmiana wysokości>>
+    \IfNoValueTF{#2}{%UNIWERSALNY MARGINPAR
+        \ifodd\value{page}%PRAWY MARGINES
+        \marginnote{{\kolor\scalebox{0.9}{\rotatebox[origin=c]{\inteval{-1 * #3}}{\maniculeL}}\IfBooleanT{#1}{\raisebox{0.06cm}{ #4}}}\fontsize{9}{9}\selectfont\\\vspace{1pt}\IfBooleanTF{#1}{#5}{#4}}[#6cm]%
+        \else%LEWY MARGINES
+        \marginnote{{\kolor\IfBooleanT{#1}{\raisebox{0.06cm}{#4 }}\scalebox{0.9}{\rotatebox[origin=c]{#3}{\maniculeR}}}\fontsize{9}{9}\selectfont\\\vspace{1pt}\IfBooleanTF{#1}{#5}{#4}}[#6cm]%
+        \fi%
+    }{%WYBRANY MARGINPAR
+        \IfStrEqCase{#2}{%
+            {P}{%PRAWY MARGINES
+                \ifodd\value{page}%
+                \else%
+                \reversemarginpar%
+                \fi%
+                \marginnote{{\kolor\scalebox{0.9}{\rotatebox[origin=c]{\inteval{-1 * #3}}{\maniculeL}}\IfBooleanT{#1}{\raisebox{0.06cm}{ #4}}}\fontsize{9}{9}\selectfont\\\vspace{1pt}\IfBooleanTF{#1}{#5}{#4}}[#6cm]%
+            }%
+            {L}{%LEWY MARGINES
+                \ifodd\value{page}%
+                \reversemarginpar%
+                \else%
+                \fi%
+                \marginnote{{\kolor\IfBooleanT{#1}{\raisebox{0.06cm}{#4 }}\scalebox{0.9}{\rotatebox[origin=c]{#3}{\maniculeR}}}\fontsize{9}{9}\selectfont\\\vspace{1pt}\IfBooleanTF{#1}{#5}{#4}}[#6cm]%
+            }%
+        }%
+    }%
+    \normalmarginpar%
+\ }
+
+%\Mar<L/P>[X°]{<treść>}<wysokość w cm>
+%\Mar*<L/P>[X°]{<tytuł>}[<treść>]<wysokość w cm>
+
+% Dla artykułu może być konieczne zakomentowanie odpowiednich fragmentów (\ifodd\value{page}) w części "WYBRANY MARGINES"

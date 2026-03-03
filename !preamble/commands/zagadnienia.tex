@@ -1,0 +1,21 @@
+%% Tak jak w skrypcie z zagadnieniami z admina
+%% Lepiej wygląda z tytułami wyrównanymi do lewej!
+
+\newcounter{zagsectionc}
+\setcounter{zagsectionc}{0}
+
+\newcounter{zagc}
+\setcounter{zagc}{0}
+
+%% WYBIERZ SPOSÓB NUMERACJI:
+% \PackageError{Komendy}{Wybierz sposób numeracji}{}
+
+% \input{!preamble/commands/zagadnienia/stałe.tex}% Stała numeracja zagadnień
+% 
+\input{!preamble/commands/zagadnienia/dzielone.tex}% Numeracja zagadnień resetowana co sekcję
+
+%% DOKUMENTACJA:
+
+%\zagsection[<toctytuł>]{<tytuł>}
+
+%\zag[<toctytuł>]{<tytuł>}[<podpis>]

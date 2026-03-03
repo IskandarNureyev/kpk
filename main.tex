@@ -1,0 +1,57 @@
+\documentclass[polish]{article}
+
+%% ZMIENNE
+\input{!preamble/zmienne}
+%% KODOWANIE JĘZYKA
+\input{!preamble/język}
+%% TYPOGRAFIA
+\input{!preamble/typografia} 
+%% BIBLIOGRAFIA
+% \input{!preamble/bibliografia} % odkomentować tylko kiedy trzeba
+%% GLOSARIUSZ
+% \input{!preamble/glosariusz} % odkomentować tylko kiedy trzeba
+%% POZOSTAŁE
+\input{!preamble/inne}
+%% MAKRA
+\input{!preamble/makra}
+
+%% RODZAJ STRONY TYTUŁOWEJ
+% \input{!preamble/title/title.tex}
+% \PackageError{Skład}{Nie wybrano rodzaju strony tytułowej}{}
+
+%%                      // praca    // umowa    // header   // adres    // pismo
+% \title{}%%            // 1        // 1        // 1        // 1        // 1
+% \subtitle{}%%         // 0        // 0        // 0        // 0        // 0
+% \author{}%%           // 1        // 0        // 0        // 0        // 1
+% \date{\today}%%       // 1        // 1        // 1        // 1        // 1
+% \miejsce{}%%          // 1        // 1        // 0        // 1        // 1
+% \adresat{}%%          // 2        // 0        // 0        // 1        // 1
+
+\begin{document}
+\frenchspacing
+% \frontmatter
+
+\pagestyle{empty}
+\dziełowa
+
+% \maketitle
+
+% \hypertarget{toc}{\tableofcontents} % spis treści
+
+% \mainmatter
+\lipsum[1]
+
+% \backmatter
+
+%% BIBLIOGRAFIA
+%\include{biblio/bibliografia}
+\end{document}
+
+przydatne do naciągania tekstu:
+
+\hbadness = 99999
+\vbadness = 99999
+oba do underfulli
+
+\emergencystretch .5cm
+do lepszego wypełniania linijek

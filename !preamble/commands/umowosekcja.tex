@@ -1,0 +1,20 @@
+%% Tytuły zrównane do środka, § – subsekcja, dział – sekcja
+\newcounter{umsectionc}
+\newcounter{umparc}
+\setcounter{umsectionc}{0}
+\setcounter{umparc}{0}
+
+\NewDocumentCommand{\umsection}{O{#2} m}{%
+    \refstepcounter{umsectionc}%
+    \oldsection*{\Roman{umsectionc}. #2}%
+    \phantomsection\label{umsec:\roman{umsectionc}}%
+    \addcontentsline{toc}{section}{\Roman{umsectionc}. #1}%
+    \markboth{\textup{\@title}}{\textup{\Roman{umsectionc}. #1}}
+}
+
+\NewDocumentCommand{\umpar}{O{#2} m}{%
+    \refstepcounter{umparc}%
+    \oldsubsection*{§ \arabic{umparc}. #2}%
+    \phantomsection\label{umpar:\arabic{umparc}}%
+    \addcontentsline{toc}{subsection}{§ \arabic{umparc}. #1}%
+}

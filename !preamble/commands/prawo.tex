@@ -1,0 +1,42 @@
+\newenvironment{newindent}[2]{\leftskip#1
+}{\leftskip0cm}
+
+\NewDocumentCommand{\art}{m o}{\noindent\textbf{Art.\ #1.%
+\IfValueT{#2}{\ [#2]}}}
+
+\NewDocumentCommand{\ust}{s m}{\IfBooleanTF{#1}{\noindent}{\\}\textbf{#2.}}
+
+\newcommand{\pkt}[2]{\begin{newindent}{.25cm}{#1}
+
+    \noindent\settowidth{\hangindent}{#1\ }\textbf{#1} #2
+
+\end{newindent}}
+
+\newcommand{\lit}[2]{\begin{newindent}{.75cm}{#1}
+
+    \noindent\settowidth{\hangindent}{#1\ }\textbf{#1} #2
+
+\end{newindent}}
+
+\newcommand{\tiret}[2]{\begin{newindent}{1.25cm}{#1}
+
+    \noindent\settowidth{\hangindent}{#1\ }\textbf{#1} #2
+
+\end{newindent}}
+
+%       SKŁADNIA
+%
+%       \art{numer}[nazwa]
+%
+%       \ust*{numer} noindent przy 1 
+%       \ust{numer} nowa linia przy 1
+%
+%       \pkt{numer}{cała treść}
+%
+%       \lit{numer}{cała treść}
+%
+%       \tiret{numer}{cała treść}
+%
+%   zawsze przed \pkt \lit i \tiret dawaj pustą linijkę!
+%       ^(.+\n)(\\pkt)
+%       $1\n$2

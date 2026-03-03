@@ -1,0 +1,17 @@
+%% 1; 2; 3; 4; 5; 6; 
+
+\NewDocumentCommand{\zagsection}{O{#2} m}{%
+    \refstepcounter{zagsectionc}% 
+    \oldsection*{#2}% bez numeru w nazwie
+    \phantomsection\label{zagsec:\arabic{zagsectionc}}% label z numerem sekcji (zagsec:n)
+    \addcontentsline{toc}{section}{\kolor#1}% dodanie do spisu treści
+}
+
+\NewDocumentCommand{\zag}{O{#2} m O{}}{%
+\refstepcounter{zagc}% 
+\oldsubsection*{{\reversemarginpar\marginnote{\arabic{zagc}.\\#3 }}#2}% bez numeru w nazwie
+\phantomsection\label{zag:\arabic{zagc}}% label z numerem subsekcji (zag:n)
+\addcontentsline{toc}{subsection}{\fontsize{10}{10}\selectfont\arabic{zagc}. #1}% dodanie do spisu treści
+% Opcjonalnie, jeśli chcę zmienić nagłówek:
+\markboth{\textup{Zagadnienie \thezagc}}{\textup{Część \Roman{zagsectionc}}}%
+}

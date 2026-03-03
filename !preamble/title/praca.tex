@@ -1,0 +1,22 @@
+\makeatletter
+\newcommand{\miejsce}[1]{\def\@miejsce{#1}}
+\newcommand{\adresat}[1]{\def\@adresat{#1}}
+
+\renewcommand{\maketitle}{
+    \begin{center}
+        \vspace*{1cm}
+        {\@author} \\
+        \vspace*{1cm}
+        {{\tytułowa\@title}}
+        \vfill
+        %% Zakomentuj albo obrazek albo dedykację
+        % \includegraphics[width=.5\textwidth]{ilustracje/temp.png}
+        {\raggedleft\@adresat\\}
+        \vfill
+        {\@miejsce}\\
+        {\@date}
+    \end{center}
+    \newpage
+}
+
+\makeatother

@@ -1,0 +1,82 @@
+%% ELEMENTY
+
+\usepackage[x11names]{xcolor}
+
+\usepackage{microtype}
+
+\usepackage[all]{nowidow}
+
+\usepackage{graphicx}
+
+\usepackage[hidelinks, pdflang=pl]{hyperref}
+\hypersetup{
+    colorlinks=false,
+    linktoc=all,
+} % linki w spisie treści
+
+%% FONTY
+
+\usepackage{fontspec}% font font font
+
+\setmainfont{Poltawski Nowy}% font
+\newfontfamily{\naut}{Poltawski Nowy}[Numbers=OldStyle]% jeśli potrzeba cyfr nautycznych
+\newfontfamily{\linin}{Poltawski Nowy}[Numbers=OldStyleOff]
+%% Inne proponowane:
+% Courier Prime – Typewriter
+% Coelacanth – Humanist antiqua
+% Alegreya – Humanist
+% Liberation Serif – Szeryfowa, Timesopodobna
+% Noto Serif – Timesopodobna, obsługuje SC
+% Poltawski Nowy – Polski klasyk
+
+%% SKŁAD
+
+\usepackage{sectsty}% zdefiniowanie wyglądu sekcji
+\allsectionsfont{\centering}%
+
+\usepackage{geometry}
+%% Wybierz format
+\input{!preamble/format/skrypty.tex}
+
+\usepackage{epigraph}
+
+\setcounter{secnumdepth}{-2}
+
+\makeatletter
+\renewcommand\tableofcontents{%
+    \if@twocolumn
+      \@restonecoltrue\onecolumn
+    \else
+      \@restonecolfalse
+    \fi
+    \section*{\contentsname%TUTAJ ZMIENIAĆ RANGĘ SPISU TREŚCI
+        \@mkboth{%
+           \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}%
+    \indeksowa\@starttoc{toc}%
+    \if@restonecol\twocolumn\fi
+}\dziełowa
+\makeatother
+
+\addto\captionspolish{\renewcommand{\contentsname}{Spis treści}}% zmiana nazwy spisu treści
+
+\usepackage{fancyhdr}
+
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[L,C,R]{}
+\fancyhead[LE,RO]{\thepage}
+\fancyfoot[L,C,R]{}
+
+\usepackage{marginnote}% żeby móc zmieniać wysokość marginpar-ów
+
+\input{!preamble/commands/marginalia.tex}
+
+%% ZMIANY
+
+\usepackage{chngcntr}
+
+\input{!preamble/commands/zagadnienia.tex}
+\input{!preamble/commands/umowosekcja.tex}
+
+\usepackage{multirow}
+
+\input{!preamble/commands/prawo.tex}

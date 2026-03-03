@@ -1,0 +1,7 @@
+%% BIBLIOGRAFIA
+
+\usepackage[backend=biber, style=authortitle-ibid]{biblatex} % biblio
+\addbibresource{biblio/bib.bib} %% UŻYWAJ bib.bib do którego ręcznie kopiuj z importowanego zotero.bib, żeby kluczy nie rozwalało (albo naucz się ręcznie ustawiać klucze w zotero)
+
+\usepackage{csquotes} % cytowanie biblio
+\newcommand{\cyt}[2][ZAPOMNIAŁEŚ PODAĆ STRONĘ]{\cite[\nopp~#1]{#2}} % cytowanie biblio (\nopp żeby ładnie wyglądało)

@@ -1,0 +1,16 @@
+\makeatletter
+\newcommand{\miejsce}[1]{\def\@miejsce{#1}}
+
+\renewcommand{\maketitle}{
+    \begin{flushright}
+        {\@miejsce}\\
+        {\@date r.}
+    \end{flushright}
+    \begin{center}
+        \vspace*{1cm}
+        {{\tytułowa\@title}}
+        \vspace*{1cm}
+    \end{center}
+}
+
+\makeatother

@@ -1,0 +1,25 @@
+\art
+
+^Art\.\s+(\d+[abcdefghijkl]*)\.\s+\[(.*)\]
+\\art{$1}[$2]
+
+\ust
+
+^(\d+[abcdef]*)\.
+\\ust{$1}
+
+\pkt
+
+^(\d+\))\s(.*)
+\\pkt{$1}{$2}
+    jeśli wywala błędy:
+^(\\pkt.*\n\\ust)
+$1*
+
+\lit
+
+\tiret
+
+puste linie po artykułach:
+(\\art.*\n[^\\])
+$1\n\\noindent 

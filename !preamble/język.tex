@@ -1,0 +1,8 @@
+%% KODOWANIE JĘZYKA
+\usepackage[T1]{fontenc} % polskie znaki
+
+\usepackage[polish, provide=*]{babel} % język polski
+\babelprovide[transforms = oneletter.nobreak]{polish} 
+
+\newcommand{\lat}[1]{\foreignlanguage{latin}{#1}}
+\newcommand{\eng}[1]{\foreignlanguage{english}{#1}}
