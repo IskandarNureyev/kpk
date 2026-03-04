@@ -3,15 +3,15 @@
 \NewDocumentCommand{\zagsection}{O{#2} m}{%
     \refstepcounter{zagsectionc}% 
     \setcounter{zagc}{0}% reset licznika subsekcji (1.1, 1.2 -> 2.1, 2.2 a nie 2.3)
-    \oldsection*{#2}% bez numeru w nazwie
+    \section*{#2}% bez numeru w nazwie
     \phantomsection\label{zagsec:\arabic{zagsectionc}}% label z numerem sekcji (zagsec:n)
     \addcontentsline{toc}{section}{#1}% dodanie do spisu treści
 }
 
 \NewDocumentCommand{\zag}{O{#2} m O{}}{%
 \refstepcounter{zagc}% 
-\oldsubsection*{{\reversemarginpar\marginnote{\arabic{zagc}.\\#3 }}#2}% bez numeru w nazwie
-\phantomsection\label{zag:\arabic{zagsectionc}.\arabic{zagc}}% label z numerem subsekcji (zag:n.m)
+\subsection*{{\reversemarginpar\marginnote{\arabic{zagc}.\\#3 }}#2}% bez numeru w nazwie
+\phantomsection\label{zag:\arabic{zagc}}% label z numerem subsekcji (zag:n.m)
 \addcontentsline{toc}{subsection}{\fontsize{10}{10}\selectfont\arabic{zagc}. #1}% dodanie do spisu treści
 % Opcjonalnie, jeśli chcę zmienić nagłówek:
 \markboth{\textup{Zagadnienie \thezagc}}{\textup{Część \Roman{zagsectionc}}}%
