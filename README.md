@@ -1,5 +1,5 @@
 # Grupowy skrypt z KPK
-[Wersja z dnia 3 marca 2026 r.](https://github.com/IskandarNureyev/kpk/blob/master/main.pdf)
+[Wersja z dnia 5 marca 2026 r.](https://github.com/IskandarNureyev/kpk/blob/master/main.pdf)
 
 
 # Postęp
