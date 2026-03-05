@@ -10,7 +10,7 @@
 
 \NewDocumentCommand{\zag}{O{#2} m O{}}{%
 \refstepcounter{zagc}% 
-\subsection*{{\reversemarginpar\marginnote{\arabic{zagc}.\\#3 }}#2}% bez numeru w nazwie
+\subsection*{{\reversemarginpar\marginnote{\arabic{zagc}.\\#3}}#2}% bez numeru w nazwie
 \phantomsection\label{zag:\arabic{zagc}}% label z numerem subsekcji (zag:n.m)
 \addcontentsline{toc}{subsection}{\fontsize{10}{10}\selectfont\arabic{zagc}. #1}% dodanie do spisu treści
 % Opcjonalnie, jeśli chcę zmienić nagłówek:
