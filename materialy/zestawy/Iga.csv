@@ -1,20 +1,20 @@
-np;zagadnienie
-3;Cele procesu karnego
-11;Granice procesu karnego
-13;Pojęcie i klasyfikacja oraz systematyka naczelnych zasad procesowych
-15;Zasada prawdy materialnej
-16;Zasada obiektywizmu i procesowe jej gwarancje.
-19;Rozkład ciężaru dowodu w procesie karnym. Obowiązek dowodzenia
-29;Zasada szybkości postępowania. Skarga na naruszenie prawa strony do rozpoznania sprawy bez zbędnej zwłoki
-33;Immunitety. Pojęcie i rodzaje
-42;Pokrzywdzony. Pojęcie i uprawnienia.
-47;Organy procesowe
-50;Skład sądu na rozprawie i posiedzeniu
-76;Pojęcie, cele, funkcje i rodzaje środków przymusu procesowego
-78;Cele, funkcje i przesłanki środków zapobiegawczych
-80;Czas stosowania środków zapobiegawczych
-98;Wniosek prokuratora o warunkowe umorzenie postępowania oraz o umorzenie postępowania i zastosowanie środków zabezpieczających
-100;Nadzór prokuratora nad postępowaniem przygotowawczym
-109;Głosy stron i wyrokowanie
-126;Wyrok łączny. Orzekanie kary łącznej w wyroku łącznym. Zasady i granice
-130;Europejski Nakaz Aresztowania
+np;zagadnienie;redaktor
+3;Cele procesu karnego;Ada
+11;Granice procesu karnego;Kamila
+13;Pojęcie i klasyfikacja oraz systematyka naczelnych zasad procesowych;Piotr
+15;Zasada prawdy materialnej;Łukasz
+16;Zasada obiektywizmu i procesowe jej gwarancje.;Alek
+19;Rozkład ciężaru dowodu w procesie karnym. Obowiązek dowodzenia;Kowal
+29;Zasada szybkości postępowania. Skarga na naruszenie prawa strony do rozpoznania sprawy bez zbędnej zwłoki;Ada
+33;Immunitety. Pojęcie i rodzaje;Kamila
+42;Pokrzywdzony. Pojęcie i uprawnienia.;Piotr
+47;Organy procesowe;Łukasz
+50;Skład sądu na rozprawie i posiedzeniu;Alek
+76;Pojęcie, cele, funkcje i rodzaje środków przymusu procesowego;Kowal
+78;Cele, funkcje i przesłanki środków zapobiegawczych;Ada
+80;Czas stosowania środków zapobiegawczych;Kamila
+98;Wniosek prokuratora o warunkowe umorzenie postępowania oraz o umorzenie postępowania i zastosowanie środków zabezpieczających;Piotr
+100;Nadzór prokuratora nad postępowaniem przygotowawczym;Łukasz
+109;Głosy stron i wyrokowanie;Alek
+126;Wyrok łączny. Orzekanie kary łącznej w wyroku łącznym. Zasady i granice;Kowal
+130;Europejski Nakaz Aresztowania;Ada
