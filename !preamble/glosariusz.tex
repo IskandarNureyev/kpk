@@ -1,6 +1,8 @@
 %% SKRÓTY
 
-\usepackage[automake, toc, acronym, nonumberlist, sort=def]{glossaries} % skróty widoczne w spisie treści
+\usepackage[automake]{glossaries} % skróty widoczne w spisie treści
+\makenoidxglossaries
+\setacronymstyle{long-short}
 
 % ZAWSZE pisać 
 % \newglossary[Xlg]{nazwa}{Xyi}{Xyg}{Tytuł}
@@ -8,11 +10,11 @@
 
 %% LISTA GLOSARIUSZY
 
-
-
-\makeglossaries
+% \newglossary[Slg]{1}{Syi}{Syg}{Użyte skróty}
 
 % ZAWSZE pisać
 %\newacronym[type=NazwaGlosariusza]{nazwa}{Skrót}{Znaczenie}
 
 %% LISTA SKRÓTÓW
+
+\newacronym{krp}{krp}{K R P}
