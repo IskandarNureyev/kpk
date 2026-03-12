@@ -1,0 +1,132 @@
+np;zagadnienie;osoba;redaktor
+1;Pojęcie i rodzaje procesu karnego;1;2
+2;Istota i aksjologia procesu karnego;3;4
+3;Cele procesu karnego;2;3
+4;Źródła prawa karnego procesowego;1;3
+5;Przedmiot procesu oraz podstawa jego wszczęcia;4;5
+6;Pojęcie i warunki rzetelnego procesu karnego;3;5
+7;Funkcje procesowe i funkcje przepisów prawa karnego procesowego;6;1
+8;Postępowanie karne i jego rodzaje;3;6
+9;Postępowanie mediacyjne;7;2
+10;Dyrektywy Parlamentu Europejskiego i Rady (informacyjna, niewinnościowa, o dostępie oskarżonego do adwokata) oraz ich znaczenie dla procesu karnego;1;4
+11;Granice procesu karnego;2;4
+12;Gwarancje prawidłowego wymiaru sprawiedliwości;1;5
+13;Pojęcie i klasyfikacja oraz systematyka naczelnych zasad procesowych;2;5
+14;Udział społeczeństwa w wymiarze sprawiedliwości oraz samodzielność jurysdykcyjna sądu karnego;5;6
+15;Zasada prawdy materialnej;2;6
+16;Zasada obiektywizmu i procesowe jej gwarancje.;2;1
+17;Niezależność i niezawisłość. Ustrojowe i proceduralne gwarancje niezawisłości;4;6
+18;Zasada domniemania niewinności oraz zasada in dubio pro reo;1;6
+19;Rozkład ciężaru dowodu w procesie karnym. Obowiązek dowodzenia;2;7
+20;Zasada swobodnej oceny dowodów oraz zasada bezpośredniości;6;2
+21;Zasada skargowości oraz zasada działania z urzędu;5;1
+22;Dysponowanie skargą przez oskarżyciela;6;3
+23;Zasada kontradyktoryjności i zasada inkwizycyjności;7;3
+24;Zasada legalizmu pierwszego i drugiego stopnia;3;1
+25;Oportunistyczne instytucje procesu karnego;1;7
+26;Instytucje konsensualnego zakończenia procesu karnego;5;2
+27;Prawo do obrony. Zakres podmiotowy, przedmiotowy i temporalny;3;2
+28;Zasada jawności i tajności;3;7
+29;Zasada szybkości postępowania. Skarga na naruszenie prawa strony do rozpoznania sprawy bez zbędnej zwłoki;2;3
+30;Pojęcie przesłanek procesowych i warunków dopuszczalności procesu;5;3
+31;Formalne negatywne przesłanki procesowe;6;4
+32;Materialne negatywne przesłanki procesowe;6;5
+33;Immunitety. Pojęcie i rodzaje;2;4
+34;Pojęcie i rodzaje czynności procesowych;3;4
+35;Prawidłowość czynności procesowych. Pojęcie i cechy prawidłowej czynności procesowej. Skutki wadliwości czynności procesowych;6;7
+36;Orzeczenia, zarządzenia i polecenia;7;4
+37;Porządek czynności procesowych;7;5
+38;Terminy i doręczenia;4;1
+39;Dokumentowanie czynności procesowych;1;2
+40;Dostęp do akt sprawy karnej;7;6
+41;Pojęcie i kategorie uczestników procesu;6;1
+42;Pokrzywdzony. Pojęcie i uprawnienia.;2;5
+43;Oskarżyciel posiłkowy i prywatny;1;3
+44;Oskarżony. Pojęcie, prawa i obowiązki;5;4
+45;Obrońca oskarżonego. Rodzaje obrońców i zakres ich działania.;3;5
+46;Narada i głosowanie nad orzeczeniem;7;1
+47;Organy procesowe;2;6
+48;Właściwość sądu. Pojęcie i rodzaje;5;7
+49;Odstępstwa od rozpoznania sprawy przez sąd właściwy. Spory o właściwość;7;2
+50;Skład sądu na rozprawie i posiedzeniu;2;1
+51;Wyłączenie sędziego. Przesłanki i tryb postępowania. Bezstronność subiektywna i obiektywna;4;2
+52;Strony procesowe. Pojęcie strony w znaczeniu formalnym i materialnym. Rodzaje stron procesowych;5;6
+53;Reprezentanci stron procesowych. Pojęcie i rodzaje;6;2
+54;Kumulacja ról procesowych i ich rozłączność;3;6
+55;Pojęcie dowodu. Źródło dowodu, środek dowodowy, fakt dowodowy;7;3
+56;Wprowadzanie dowodów do procesu karnego. Wniosek dowodowy;4;3
+57;Przesłanki oddalenia wniosku dowodowego;3;1
+58;Rodzaje dowodów;1;4
+59;Szczególne rodzaje dowodów;5;1
+60;Dowody nielegalne. Doktryna owoców zatrutego drzewa;1;5
+61;Zakazy dowodowe. Pojęcie i systematyka;5;2
+62;Zakazy dowodzenia faktów;4;7
+63;Zakazy dowodzenia za pomocą określonych środków dowodowych;7;4
+64;Zakazy określonych sposobów (metod) uzyskania dowodów;5;3
+65;Udowodnienie i surogaty udowodnienia;4;5
+66;Pojęcie i rodzaje czynności dowodowych;4;6
+67;Zatrzymanie rzeczy, korespondencji i przesyłek;6;3
+68;Przeszukanie - rodzaje, przesłanki i tryb postępowania;7;5
+69;Kontrola i utrwalanie treści rozmów telefonicznych - granice podmiotowe, przedmiotowe i temporalne;4;1
+70;Wykorzystanie informacji uzyskanych poza granicami kontroli i utrwalania treści rozmów telefonicznych;3;2
+71;Podsłuch telefoniczny w toku czynności operacyjno-rozpoznawczych w ustawie o Policji. Problem tzw. następczej zgody sądu;1;6
+72;Wrażliwe czynności dowodowe;6;4
+73;Przesłuchanie i okazanie;3;7
+74;Świadek anonimowy i świadek koronny;6;5
+75;Oględziny, wizja lokalna i eksperyment procesowy. Czynności kontrolujące dowody;7;6
+76;Pojęcie, cele, funkcje i rodzaje środków przymusu procesowego;2;7
+77;Zatrzymanie osoby;4;2
+78;Cele, funkcje i przesłanki środków zapobiegawczych;2;3
+79;Dyrektywy środków zapobiegawczych;4;3
+80;Czas stosowania środków zapobiegawczych;2;4
+81;Postępowanie Habeas Corpus. Standard konstytucyjny, konwencyjny i ustawowy;7;1
+82;Zakazy stosowania tymczasowego aresztowania;7;2
+83;Posiedzenie w przedmiocie tymczasowego aresztowania;3;4
+84;Poręczenie majątkowe, społeczne i osoby godnej zaufania;5;4
+85;Dozór policji;5;7
+86;Zawieszenie w czynnościach i zakaz opuszczania kraju;1;7
+87;List żelazny i list gończy. Podobieństwa i odrębności;1;2
+88;Pojęcie i rodzaje kar porządkowych;5;6
+89;Zabezpieczenie majątkowe;6;7
+90;Cele i funkcje postępowania przygotowawczego;6;1
+91;Formy postępowania przygotowawczego;4;7
+92;Rozpoczęcie postępowania przygotowawczego;3;5
+93;Czynności niepowtarzalne w postępowaniu przygotowawczym;1;3
+94;Przedstawienie zarzutów;3;6
+95;Czynności sądowe w postępowaniu przygotowawczym;7;3
+96;Zakończenie i zamknięcie postępowania przygotowawczego;3;1
+97;Wniosek prokuratora o skazanie oskarżonego bez rozprawy. Przesłanki i tryb postępowania;3;2
+98;Wniosek prokuratora o warunkowe umorzenie postępowania oraz o umorzenie postępowania i zastosowanie środków zabezpieczających;2;5
+99;Umorzenie postępowania przygotowawczego i umorzenie rejestrowe;4;5
+100;Nadzór prokuratora nad postępowaniem przygotowawczym;2;6
+101;Formalna i merytoryczna kontrola aktu oskarżenia;4;6
+102;Posiedzenie przygotowawcze (organizacyjne) przed rozprawą główną;4;1
+103;Posiedzenia wyrokowe;3;7
+104;Rozpoczęcie rozprawy głównej;1;4
+105;Jawność rozprawy głównej;4;2
+106;Udział oskarżonego w rozprawie. Prowadzenie rozprawy pod nieobecność oskarżonego;4;3
+107;Pojęcie i przebieg przewodu sądowego;1;5
+108;Redukcja postępowania dowodowego na rozprawie głównej;5;1
+109;Głosy stron i wyrokowanie;2;1
+110;Pojęcie i rodzaje środków zaskarżenia. Modele postępowania odwoławczego;5;2
+111;Cechy, granice i kierunek środka odwoławczego;7;4
+112;Zakres zaskarżenia. Pojęcie, rodzaje i granice. Orzekanie poza granicami zaskarżenia i podniesionych zarzutów;3;4
+113;Ogólne i szczególne wymogi środka odwoławczego;6;2
+114;Zarzuty i przyczyny odwoławcze. Pojęcie i rodzaje;4;7
+115;Rodzaje rozstrzygnięć organu odwoławczego. Ograniczenia w orzekaniu na niekorzyść oskarżonego;6;3
+116;Apelacja i postępowanie apelacyjne;6;4
+117;Granice postępowania dowodowego prowadzonego na rozprawie odwoławczej;5;3
+118;Zażalenie i postępowanie zażaleniowe;6;5
+119;"Pojęcie, istota i rodzaje postępowań szczególnych; powody i kryteria ich wyodrębniania";7;5
+120;Postępowanie w sprawach z oskarżenia prywatnego oraz postępowanie nakazowe;5;4
+121;Postępowanie przyspieszone;7;6
+122;Postępowanie w sprawie odpowiedzialności podmiotu zbiorowego za czyny zabronione pod groźbą kary;5;7
+123;Sprzeciw i sprzeciwianie się. Różnice w konstrukcji jurydycznej. Granice „sprzeciwiania się”;1;6
+124;Kasacja. Pojęcie, rodzaje i przesłanki oraz tryb postępowania. Rozstrzygnięcia sądu kasacyjnego;6;7
+125;Wznowienie prawomocnie zakończonego postępowania sądowego. Pojęcie, przesłanki i tryb postępowania. Rozstrzygnięcia sądu w przedmiocie wznowienia;1;7
+126;Wyrok łączny. Orzekanie kary łącznej w wyroku łącznym. Zasady i granice;2;7
+127;Postępowanie w sprawie o ułaskawienie;6;1
+128;Postępowanie w sprawie o odszkodowanie i zadośćuczynienie za niesłuszne skazanie, zatrzymanie i tymczasowe aresztowanie;4;5
+129;Ekstradycja. Przesłanki i tryb postępowania;7;1
+130;Europejski Nakaz Aresztowania;2;3
+131;Europejski Nakaz Dochodzeniowy;5;6
