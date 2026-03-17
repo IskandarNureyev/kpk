@@ -2,7 +2,7 @@
 [Wersja z dnia 5 marca 2026 r.](https://github.com/IskandarNureyev/kpk/blob/master/main.pdf)
 
 
-# Postęp
+# Pozostały do zrobienia
 1
 2
 3
@@ -20,7 +20,7 @@
 15
 16
 17
-18
+zrobione
 19
 20
 21
