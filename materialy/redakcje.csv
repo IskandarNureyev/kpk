@@ -1,132 +1,133 @@
-np;zagadnienie;osoba;redaktor
-1;Pojęcie i rodzaje procesu karnego;Alek;Iga
-2;Istota i aksjologia procesu karnego;Ada;Kamila
-3;Cele procesu karnego;Iga;Ada
-4;Źródła prawa karnego procesowego;Alek;Ada
-5;Przedmiot procesu oraz podstawa jego wszczęcia;Kamila;Piotr
-6;Pojęcie i warunki rzetelnego procesu karnego;Ada;Piotr
-7;Funkcje procesowe i funkcje przepisów prawa karnego procesowego;Łukasz;Alek
-8;Postępowanie karne i jego rodzaje;Ada;Łukasz
-9;Postępowanie mediacyjne;Kowal;Iga
-10;Dyrektywy Parlamentu Europejskiego i Rady (informacyjna, niewinnościowa, o dostępie oskarżonego do adwokata) oraz ich znaczenie dla procesu karnego;Alek;Kamila
-11;Granice procesu karnego;Iga;Kamila
-12;Gwarancje prawidłowego wymiaru sprawiedliwości;Alek;Piotr
-13;Pojęcie i klasyfikacja oraz systematyka naczelnych zasad procesowych;Iga;Piotr
-14;Udział społeczeństwa w wymiarze sprawiedliwości oraz samodzielność jurysdykcyjna sądu karnego;Piotr;Łukasz
-15;Zasada prawdy materialnej;Iga;Łukasz
-16;Zasada obiektywizmu i procesowe jej gwarancje.;Iga;Alek
-17;Niezależność i niezawisłość. Ustrojowe i proceduralne gwarancje niezawisłości;Kamila;Łukasz
-18;Zasada domniemania niewinności oraz zasada in dubio pro reo;Alek;Łukasz
-19;Rozkład ciężaru dowodu w procesie karnym. Obowiązek dowodzenia;Iga;Kowal
-20;Zasada swobodnej oceny dowodów oraz zasada bezpośredniości;Łukasz;Iga
-21;Zasada skargowości oraz zasada działania z urzędu;Piotr;Alek
-22;Dysponowanie skargą przez oskarżyciela;Łukasz;Ada
-23;Zasada kontradyktoryjności i zasada inkwizycyjności;Kowal;Ada
-24;Zasada legalizmu pierwszego i drugiego stopnia;Ada;Alek
-25;Oportunistyczne instytucje procesu karnego;Alek;Kowal
-26;Instytucje konsensualnego zakończenia procesu karnego;Piotr;Iga
-27;Prawo do obrony. Zakres podmiotowy, przedmiotowy i temporalny;Ada;Iga
-28;Zasada jawności i tajności;Ada;Kowal
-29;Zasada szybkości postępowania. Skarga na naruszenie prawa strony do rozpoznania sprawy bez zbędnej zwłoki;Iga;Ada
-30;Pojęcie przesłanek procesowych i warunków dopuszczalności procesu;Piotr;Ada
-31;Formalne negatywne przesłanki procesowe;Łukasz;Kamila
-32;Materialne negatywne przesłanki procesowe;Łukasz;Piotr
-33;Immunitety. Pojęcie i rodzaje;Iga;Kamila
-34;Pojęcie i rodzaje czynności procesowych;Ada;Kamila
-35;Prawidłowość czynności procesowych. Pojęcie i cechy prawidłowej czynności procesowej. Skutki wadliwości czynności procesowych;Łukasz;Kowal
-36;Orzeczenia, zarządzenia i polecenia;Kowal;Kamila
-37;Porządek czynności procesowych;Kowal;Piotr
-38;Terminy i doręczenia;Kamila;Alek
-39;Dokumentowanie czynności procesowych;Alek;Iga
-40;Dostęp do akt sprawy karnej;Kowal;Łukasz
-41;Pojęcie i kategorie uczestników procesu;Łukasz;Alek
-42;Pokrzywdzony. Pojęcie i uprawnienia.;Iga;Piotr
-43;Oskarżyciel posiłkowy i prywatny;Alek;Ada
-44;Oskarżony. Pojęcie, prawa i obowiązki;Piotr;Kamila
-45;Obrońca oskarżonego. Rodzaje obrońców i zakres ich działania.;Ada;Piotr
-46;Narada i głosowanie nad orzeczeniem;Kowal;Alek
-47;Organy procesowe;Iga;Łukasz
-48;Właściwość sądu. Pojęcie i rodzaje;Piotr;Kowal
-49;Odstępstwa od rozpoznania sprawy przez sąd właściwy. Spory o właściwość;Kowal;Iga
-50;Skład sądu na rozprawie i posiedzeniu;Iga;Alek
-51;Wyłączenie sędziego. Przesłanki i tryb postępowania. Bezstronność subiektywna i obiektywna;Kamila;Iga
-52;Strony procesowe. Pojęcie strony w znaczeniu formalnym i materialnym. Rodzaje stron procesowych;Piotr;Łukasz
-53;Reprezentanci stron procesowych. Pojęcie i rodzaje;Łukasz;Iga
-54;Kumulacja ról procesowych i ich rozłączność;Ada;Łukasz
-55;Pojęcie dowodu. Źródło dowodu, środek dowodowy, fakt dowodowy;Kowal;Ada
-56;Wprowadzanie dowodów do procesu karnego. Wniosek dowodowy;Kamila;Ada
-57;Przesłanki oddalenia wniosku dowodowego;Ada;Alek
-58;Rodzaje dowodów;Alek;Kamila
-59;Szczególne rodzaje dowodów;Piotr;Alek
-60;Dowody nielegalne. Doktryna owoców zatrutego drzewa;Alek;Piotr
-61;Zakazy dowodowe. Pojęcie i systematyka;Piotr;Iga
-62;Zakazy dowodzenia faktów;Kamila;Kowal
-63;Zakazy dowodzenia za pomocą określonych środków dowodowych;Kowal;Kamila
-64;Zakazy określonych sposobów (metod) uzyskania dowodów;Piotr;Ada
-65;Udowodnienie i surogaty udowodnienia;Kamila;Piotr
-66;Pojęcie i rodzaje czynności dowodowych;Kamila;Łukasz
-67;Zatrzymanie rzeczy, korespondencji i przesyłek;Łukasz;Ada
-68;Przeszukanie - rodzaje, przesłanki i tryb postępowania;Kowal;Piotr
-69;Kontrola i utrwalanie treści rozmów telefonicznych - granice podmiotowe, przedmiotowe i temporalne;Kamila;Alek
-70;Wykorzystanie informacji uzyskanych poza granicami kontroli i utrwalania treści rozmów telefonicznych;Ada;Iga
-71;Podsłuch telefoniczny w toku czynności operacyjno-rozpoznawczych w ustawie o Policji. Problem tzw. następczej zgody sądu;Alek;Łukasz
-72;Wrażliwe czynności dowodowe;Łukasz;Kamila
-73;Przesłuchanie i okazanie;Ada;Kowal
-74;Świadek anonimowy i świadek koronny;Łukasz;Piotr
-75;Oględziny, wizja lokalna i eksperyment procesowy. Czynności kontrolujące dowody;Kowal;Łukasz
-76;Pojęcie, cele, funkcje i rodzaje środków przymusu procesowego;Iga;Kowal
-77;Zatrzymanie osoby;Kamila;Iga
-78;Cele, funkcje i przesłanki środków zapobiegawczych;Iga;Ada
-79;Dyrektywy środków zapobiegawczych;Kamila;Ada
-80;Czas stosowania środków zapobiegawczych;Iga;Kamila
-81;Postępowanie Habeas Corpus. Standard konstytucyjny, konwencyjny i ustawowy;Kowal;Alek
-82;Zakazy stosowania tymczasowego aresztowania;Kowal;Iga
-83;Posiedzenie w przedmiocie tymczasowego aresztowania;Ada;Kamila
-84;Poręczenie majątkowe, społeczne i osoby godnej zaufania;Piotr;Kamila
-85;Dozór policji;Piotr;Kowal
-86;Zawieszenie w czynnościach i zakaz opuszczania kraju;Alek;Kowal
-87;List żelazny i list gończy. Podobieństwa i odrębności;Alek;Iga
-88;Pojęcie i rodzaje kar porządkowych;Piotr;Łukasz
-89;Zabezpieczenie majątkowe;Łukasz;Kowal
-90;Cele i funkcje postępowania przygotowawczego;Łukasz;Alek
-91;Formy postępowania przygotowawczego;Kamila;Kowal
-92;Rozpoczęcie postępowania przygotowawczego;Ada;Piotr
-93;Czynności niepowtarzalne w postępowaniu przygotowawczym;Alek;Ada
-94;Przedstawienie zarzutów;Ada;Łukasz
-95;Czynności sądowe w postępowaniu przygotowawczym;Kowal;Ada
-96;Zakończenie i zamknięcie postępowania przygotowawczego;Ada;Alek
-97;Wniosek prokuratora o skazanie oskarżonego bez rozprawy. Przesłanki i tryb postępowania;Ada;Iga
-98;Wniosek prokuratora o warunkowe umorzenie postępowania oraz o umorzenie postępowania i zastosowanie środków zabezpieczających;Iga;Piotr
-99;Umorzenie postępowania przygotowawczego i umorzenie rejestrowe;Kamila;Piotr
-100;Nadzór prokuratora nad postępowaniem przygotowawczym;Iga;Łukasz
-101;Formalna i merytoryczna kontrola aktu oskarżenia;Kamila;Łukasz
-102;Posiedzenie przygotowawcze (organizacyjne) przed rozprawą główną;Kamila;Alek
-103;Posiedzenia wyrokowe;Ada;Kowal
-104;Rozpoczęcie rozprawy głównej;Alek;Kamila
-105;Jawność rozprawy głównej;Kamila;Iga
-106;Udział oskarżonego w rozprawie. Prowadzenie rozprawy pod nieobecność oskarżonego;Kamila;Ada
-107;Pojęcie i przebieg przewodu sądowego;Alek;Piotr
-108;Redukcja postępowania dowodowego na rozprawie głównej;Piotr;Alek
-109;Głosy stron i wyrokowanie;Iga;Alek
-110;Pojęcie i rodzaje środków zaskarżenia. Modele postępowania odwoławczego;Piotr;Iga
-111;Cechy, granice i kierunek środka odwoławczego;Kowal;Kamila
-112;Zakres zaskarżenia. Pojęcie, rodzaje i granice. Orzekanie poza granicami zaskarżenia i podniesionych zarzutów;Ada;Kamila
-113;Ogólne i szczególne wymogi środka odwoławczego;Łukasz;Iga
-114;Zarzuty i przyczyny odwoławcze. Pojęcie i rodzaje;Kamila;Kowal
-115;Rodzaje rozstrzygnięć organu odwoławczego. Ograniczenia w orzekaniu na niekorzyść oskarżonego;Łukasz;Ada
-116;Apelacja i postępowanie apelacyjne;Łukasz;Kamila
-117;Granice postępowania dowodowego prowadzonego na rozprawie odwoławczej;Piotr;Ada
-118;Zażalenie i postępowanie zażaleniowe;Łukasz;Piotr
-119;"Pojęcie, istota i rodzaje postępowań szczególnych; powody i kryteria ich wyodrębniania";Kowal;Piotr
-120;Postępowanie w sprawach z oskarżenia prywatnego oraz postępowanie nakazowe;Piotr;Kamila
-121;Postępowanie przyspieszone;Kowal;Łukasz
-122;Postępowanie w sprawie odpowiedzialności podmiotu zbiorowego za czyny zabronione pod groźbą kary;Piotr;Kowal
-123;Sprzeciw i sprzeciwianie się. Różnice w konstrukcji jurydycznej. Granice „sprzeciwiania się”;Alek;Łukasz
-124;Kasacja. Pojęcie, rodzaje i przesłanki oraz tryb postępowania. Rozstrzygnięcia sądu kasacyjnego;Łukasz;Kowal
-125;Wznowienie prawomocnie zakończonego postępowania sądowego. Pojęcie, przesłanki i tryb postępowania. Rozstrzygnięcia sądu w przedmiocie wznowienia;Alek;Kowal
-126;Wyrok łączny. Orzekanie kary łącznej w wyroku łącznym. Zasady i granice;Iga;Kowal
-127;Postępowanie w sprawie o ułaskawienie;Łukasz;Alek
-128;Postępowanie w sprawie o odszkodowanie i zadośćuczynienie za niesłuszne skazanie, zatrzymanie i tymczasowe aresztowanie;Kamila;Piotr
-129;Ekstradycja. Przesłanki i tryb postępowania;Kowal;Alek
-130;Europejski Nakaz Aresztowania;Iga;Ada
-131;Europejski Nakaz Dochodzeniowy;Piotr;Łukasz
+np;zagadnienie;osoba;redaktor;uwagi
+1;Pojęcie i rodzaje procesu karnego;Alek;Iga;typografia
+2;Istota i aksjologia procesu karnego;Ada;Kamila;
+3;Cele procesu karnego;Iga;Ada;
+4;Źródła prawa karnego procesowego;Alek;Ada;
+5;Przedmiot procesu oraz podstawa jego wszczęcia;Kamila;Piotr;
+6;Pojęcie i warunki rzetelnego procesu karnego;Ada;Piotr;
+7;Funkcje procesowe i funkcje przepisów prawa karnego procesowego;Łukasz;Alek;
+8;Postępowanie karne i jego rodzaje;Ada;Łukasz;
+9;Postępowanie mediacyjne;Kowal;Iga;
+10;Dyrektywy Parlamentu Europejskiego i Rady (informacyjna, niewinnościowa, o dostępie oskarżonego do adwokata) oraz ich znaczenie dla procesu karnego;Alek;Kamila;
+11;Granice procesu karnego;Iga;Kamila;
+12;Gwarancje prawidłowego wymiaru sprawiedliwości;Alek;Piotr;
+13;Pojęcie i klasyfikacja oraz systematyka naczelnych zasad procesowych;Iga;Piotr;
+14;Udział społeczeństwa w wymiarze sprawiedliwości oraz samodzielność jurysdykcyjna sądu karnego;Piotr;Łukasz;
+15;Zasada prawdy materialnej;Iga;Łukasz;
+16;Zasada obiektywizmu i procesowe jej gwarancje.;Iga;Alek;
+17;Niezależność i niezawisłość. Ustrojowe i proceduralne gwarancje niezawisłości;Kamila;Łukasz;
+18;Zasada domniemania niewinności oraz zasada in dubio pro reo;Alek;Łukasz;
+19;Rozkład ciężaru dowodu w procesie karnym. Obowiązek dowodzenia;Iga;Kowal;
+20;Zasada swobodnej oceny dowodów oraz zasada bezpośredniości;Łukasz;Iga;
+21;Zasada skargowości oraz zasada działania z urzędu;Piotr;Alek;
+22;Dysponowanie skargą przez oskarżyciela;Łukasz;Ada;
+23;Zasada kontradyktoryjności i zasada inkwizycyjności;Kowal;Ada;
+24;Zasada legalizmu pierwszego i drugiego stopnia;Ada;Alek;
+25;Oportunistyczne instytucje procesu karnego;Alek;Kowal;
+26;Instytucje konsensualnego zakończenia procesu karnego;Piotr;Iga;
+27;Prawo do obrony. Zakres podmiotowy, przedmiotowy i temporalny;Ada;Iga;
+28;Zasada jawności i tajności;Ada;Kowal;
+29;Zasada szybkości postępowania. Skarga na naruszenie prawa strony do rozpoznania sprawy bez zbędnej zwłoki;Iga;Ada;
+30;Pojęcie przesłanek procesowych i warunków dopuszczalności procesu;Piotr;Ada;
+31;Formalne negatywne przesłanki procesowe;Łukasz;Kamila;
+32;Materialne negatywne przesłanki procesowe;Łukasz;Piotr;
+33;Immunitety. Pojęcie i rodzaje;Iga;Kamila;
+34;Pojęcie i rodzaje czynności procesowych;Ada;Kamila;
+35;Prawidłowość czynności procesowych. Pojęcie i cechy prawidłowej czynności procesowej. Skutki wadliwości czynności procesowych;Łukasz;Kowal;
+36;Orzeczenia, zarządzenia i polecenia;Kowal;Kamila;
+37;Porządek czynności procesowych;Kowal;Piotr;
+38;Terminy i doręczenia;Kamila;Alek;
+39;Dokumentowanie czynności procesowych;Alek;Iga;
+40;Dostęp do akt sprawy karnej;Kowal;Łukasz;
+41;Pojęcie i kategorie uczestników procesu;Łukasz;Alek;
+42;Pokrzywdzony. Pojęcie i uprawnienia.;Iga;Piotr;
+43;Oskarżyciel posiłkowy i prywatny;Alek;Ada;
+44;Oskarżony. Pojęcie, prawa i obowiązki;Piotr;Kamila;
+45;Obrońca oskarżonego. Rodzaje obrońców i zakres ich działania.;Ada;Piotr;
+46;Narada i głosowanie nad orzeczeniem;Kowal;Alek;
+47;Organy procesowe;Iga;Łukasz;
+48;Właściwość sądu. Pojęcie i rodzaje;Piotr;Kowal;
+49;Odstępstwa od rozpoznania sprawy przez sąd właściwy. Spory o właściwość;Kowal;Iga;
+50;Skład sądu na rozprawie i posiedzeniu;Iga;Alek;
+51;Wyłączenie sędziego. Przesłanki i tryb postępowania. Bezstronność subiektywna i obiektywna;Kamila;Iga;
+52;Strony procesowe. Pojęcie strony w znaczeniu formalnym i materialnym. Rodzaje stron procesowych;Piotr;Łukasz;
+53;Reprezentanci stron procesowych. Pojęcie i rodzaje;Łukasz;Iga;
+54;Kumulacja ról procesowych i ich rozłączność;Ada;Łukasz;
+55;Pojęcie dowodu. Źródło dowodu, środek dowodowy, fakt dowodowy;Kowal;Ada;
+56;Wprowadzanie dowodów do procesu karnego. Wniosek dowodowy;Kamila;Ada;
+57;Przesłanki oddalenia wniosku dowodowego;Ada;Alek;
+58;Rodzaje dowodów;Alek;Kamila;
+59;Szczególne rodzaje dowodów;Piotr;Alek;
+60;Dowody nielegalne. Doktryna owoców zatrutego drzewa;Alek;Piotr;
+61;Zakazy dowodowe. Pojęcie i systematyka;Piotr;Iga;
+62;Zakazy dowodzenia faktów;Kamila;Kowal;
+63;Zakazy dowodzenia za pomocą określonych środków dowodowych;Kowal;Kamila;
+64;Zakazy określonych sposobów (metod) uzyskania dowodów;Piotr;Ada;
+65;Udowodnienie i surogaty udowodnienia;Kamila;Piotr;
+66;Pojęcie i rodzaje czynności dowodowych;Kamila;Łukasz;
+67;Zatrzymanie rzeczy, korespondencji i przesyłek;Łukasz;Ada;
+68;Przeszukanie - rodzaje, przesłanki i tryb postępowania;Kowal;Piotr;
+69;Kontrola i utrwalanie treści rozmów telefonicznych - granice podmiotowe, przedmiotowe i temporalne;Kamila;Alek;
+70;Wykorzystanie informacji uzyskanych poza granicami kontroli i utrwalania treści rozmów telefonicznych;Ada;Iga;
+71;Podsłuch telefoniczny w toku czynności operacyjno-rozpoznawczych w ustawie o Policji. Problem tzw. następczej zgody sądu;Alek;Łukasz;
+72;Wrażliwe czynności dowodowe;Łukasz;Kamila;
+73;Przesłuchanie i okazanie;Ada;Kowal;
+74;Świadek anonimowy i świadek koronny;Łukasz;Piotr;
+75;Oględziny, wizja lokalna i eksperyment procesowy. Czynności kontrolujące dowody;Kowal;Łukasz;
+76;Pojęcie, cele, funkcje i rodzaje środków przymusu procesowego;Iga;Kowal;
+77;Zatrzymanie osoby;Kamila;Iga;
+78;Cele, funkcje i przesłanki środków zapobiegawczych;Iga;Ada;
+79;Dyrektywy środków zapobiegawczych;Kamila;Ada;
+80;Czas stosowania środków zapobiegawczych;Iga;Kamila;
+81;Postępowanie Habeas Corpus. Standard konstytucyjny, konwencyjny i ustawowy;Kowal;Alek;
+82;Zakazy stosowania tymczasowego aresztowania;Kowal;Iga;
+83;Posiedzenie w przedmiocie tymczasowego aresztowania;Ada;Kamila;
+84;Poręczenie majątkowe, społeczne i osoby godnej zaufania;Piotr;Kamila;
+85;Dozór policji;Piotr;Kowal;
+86;Zawieszenie w czynnościach i zakaz opuszczania kraju;Alek;Kowal;
+87;List żelazny i list gończy. Podobieństwa i odrębności;Alek;Iga;
+88;Pojęcie i rodzaje kar porządkowych;Piotr;Łukasz;
+89;Zabezpieczenie majątkowe;Łukasz;Kowal;
+90;Cele i funkcje postępowania przygotowawczego;Łukasz;Alek;
+91;Formy postępowania przygotowawczego;Kamila;Kowal;
+92;Rozpoczęcie postępowania przygotowawczego;Ada;Piotr;
+93;Czynności niepowtarzalne w postępowaniu przygotowawczym;Alek;Ada;
+94;Przedstawienie zarzutów;Ada;Łukasz;
+95;Czynności sądowe w postępowaniu przygotowawczym;Kowal;Ada;
+96;Zakończenie i zamknięcie postępowania przygotowawczego;Ada;Alek;
+97;Wniosek prokuratora o skazanie oskarżonego bez rozprawy. Przesłanki i tryb postępowania;Ada;Iga;
+98;Wniosek prokuratora o warunkowe umorzenie postępowania oraz o umorzenie postępowania i zastosowanie środków zabezpieczających;Iga;Piotr;
+99;Umorzenie postępowania przygotowawczego i umorzenie rejestrowe;Kamila;Piotr;
+100;Nadzór prokuratora nad postępowaniem przygotowawczym;Iga;Łukasz;
+101;Formalna i merytoryczna kontrola aktu oskarżenia;Kamila;Łukasz;
+102;Posiedzenie przygotowawcze (organizacyjne) przed rozprawą główną;Kamila;Alek;
+103;Posiedzenia wyrokowe;Ada;Kowal;
+104;Rozpoczęcie rozprawy głównej;Alek;Kamila;
+105;Jawność rozprawy głównej;Kamila;Iga;
+106;Udział oskarżonego w rozprawie. Prowadzenie rozprawy pod nieobecność oskarżonego;Kamila;Ada;
+107;Pojęcie i przebieg przewodu sądowego;Alek;Piotr;
+108;Redukcja postępowania dowodowego na rozprawie głównej;Piotr;Alek;
+109;Głosy stron i wyrokowanie;Iga;Alek;
+110;Pojęcie i rodzaje środków zaskarżenia. Modele postępowania odwoławczego;Piotr;Iga;
+111;Cechy, granice i kierunek środka odwoławczego;Kowal;Kamila;
+112;Zakres zaskarżenia. Pojęcie, rodzaje i granice. Orzekanie poza granicami zaskarżenia i podniesionych zarzutów;Ada;Kamila;
+113;Ogólne i szczególne wymogi środka odwoławczego;Łukasz;Iga;
+114;Zarzuty i przyczyny odwoławcze. Pojęcie i rodzaje;Kamila;Kowal;
+115;Rodzaje rozstrzygnięć organu odwoławczego. Ograniczenia w orzekaniu na niekorzyść oskarżonego;Łukasz;Ada;
+116;Apelacja i postępowanie apelacyjne;Łukasz;Kamila;
+117;Granice postępowania dowodowego prowadzonego na rozprawie odwoławczej;Piotr;Ada;
+118;Zażalenie i postępowanie zażaleniowe;Łukasz;Piotr;
+119;"Pojęcie, istota i rodzaje postępowań szczególnych; powody i kryteria ich wyodrębniania";Kowal;Piotr;
+120;Postępowanie w sprawach z oskarżenia prywatnego oraz postępowanie nakazowe;Piotr;Kamila;
+121;Postępowanie przyspieszone;Kowal;Łukasz;
+122;Postępowanie w sprawie odpowiedzialności podmiotu zbiorowego za czyny zabronione pod groźbą kary;Piotr;Kowal;
+123;Sprzeciw i sprzeciwianie się. Różnice w konstrukcji jurydycznej. Granice „sprzeciwiania się”;Alek;Łukasz;
+124;Kasacja. Pojęcie, rodzaje i przesłanki oraz tryb postępowania. Rozstrzygnięcia sądu kasacyjnego;Łukasz;Kowal;
+125;Wznowienie prawomocnie zakończonego postępowania sądowego. Pojęcie, przesłanki i tryb postępowania. Rozstrzygnięcia sądu w przedmiocie wznowienia;Alek;Kowal;
+126;Wyrok łączny. Orzekanie kary łącznej w wyroku łącznym. Zasady i granice;Iga;Kowal;
+127;Postępowanie w sprawie o ułaskawienie;Łukasz;Alek;
+128;Postępowanie w sprawie o odszkodowanie i zadośćuczynienie za niesłuszne skazanie, zatrzymanie i tymczasowe aresztowanie;Kamila;Piotr;
+129;Ekstradycja. Przesłanki i tryb postępowania;Kowal;Alek;
+130;Europejski Nakaz Aresztowania;Iga;Ada;
+131;Europejski Nakaz Dochodzeniowy;Piotr;Łukasz;
+;
